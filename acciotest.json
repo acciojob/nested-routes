@@ -1,4 +1,4 @@
 {
-    "testRepo": "solution-repo-name",
+    "testRepo": "nested-routes-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
